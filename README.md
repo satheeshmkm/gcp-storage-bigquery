@@ -1,0 +1,1 @@
+http://localhost:8080/gcp-services/swagger-ui.html
